@@ -1,0 +1,5 @@
+Electronic:     Laptop     1000     Lenovo     21:58:45     12/05/2024
+Electronic:     MacBook     2000     Apple     21:59:00     12/05/2024
+FrozenFood:     Fish     200     1/1/2023     21:59:18     12/05/2024
+Beauty:     FaceWash     500     Garnier     21:59:34     12/05/2024
+Electronic:     Tablet     1000     Samsung     23:41:24     13/05/2024
